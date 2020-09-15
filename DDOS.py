@@ -894,7 +894,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "H 7-9 SEN Ft. Mutiara Bangsa 3"
+		print "H 7-9 SEN"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
