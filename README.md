@@ -13,5 +13,6 @@ SUPPORTED BY I.C.U
 
 ## Error?? Contact Me!
 
-<a href="https://line.me/R/ti/p/~Hansen_Gianto"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a><br/>
-<a href="https://instagram.com/hansen_gianto"><img height="36" border="0" alt="Add Friend" src="https://theobriensabroad.com/wp-content/uploads/2017/08/instagram-logo-png-transparent-background-300x300.png">
+<a href="https://www.youtube.com/h79sen">
+<b>Tutor Soon Here!</b>
+</a>
