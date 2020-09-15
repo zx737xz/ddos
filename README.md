@@ -1,5 +1,5 @@
 # DDOS ATTACK BY H 7-9 SEN
-SUPPORTED BY I.C.U
+Don't Forget Like And Follow!
 
 # COMMAND VIA TERMUX
 
